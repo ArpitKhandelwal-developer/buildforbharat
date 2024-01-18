@@ -72,5 +72,4 @@ pip install transformers pillow pytesseract langid indic-transliteration
 
 Feel free to contribute to the project by opening issues or submitting pull requests.
 
-## License
 
